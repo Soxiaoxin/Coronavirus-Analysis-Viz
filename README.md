@@ -6,7 +6,7 @@
 
 ## 绘制地图
 
-根据总的数据，绘制确诊人数的世界地图![](/home/picture/1.png)。
+根据总的数据，绘制确诊人数的世界地图![](images/confirmed_world_map.jpg)。
 
 
 
