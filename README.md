@@ -2,4 +2,14 @@
 
 数据集：https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
+# EDA & Visualization
+
+## 绘制地图
+
+根据总的数据，绘制确诊人数的世界地图![](/home/picture/1.png)。
+
+
+
+待解决问题：无法
+
 简单的SEIR模型等。
