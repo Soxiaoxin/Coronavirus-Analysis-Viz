@@ -8,7 +8,7 @@
 
 根据总的数据，绘制确诊人数的世界地图，如下：
 
-![](images/confirmed_world_map.jpg)
+![](/images/confirmed_world_map.jpg)
 
 
 
