@@ -2,16 +2,20 @@
 
 数据集：https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
-# EDA & Visualization
+数据统计截止日期：2020-02-17
 
-## 绘制地图
+# 全球数据概览
+
+
 
 根据总的数据，绘制确诊人数的世界地图，如下：
 
 ![](images/confirmed_world_map.jpg)
 
+# 中国数据概览
 
 
-待解决问题：无法
 
-简单的SEIR模型等。
+
+
+
